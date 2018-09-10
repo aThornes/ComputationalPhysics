@@ -1,4 +1,0 @@
-/pycache_
-/compA
-/files
-test.py
